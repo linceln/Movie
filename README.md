@@ -1,2 +1,2 @@
 # Movie
-Movies information from Douban API.
+Movies information from Douban API with Material Design.
